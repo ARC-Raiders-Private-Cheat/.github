@@ -13,6 +13,8 @@ ARC Raiders is a world of metallic storms and relentless ambushes. This private 
 [!IMPORTANT]
 This tool is focused on customization, allowing players to craft their preferred intensity—from gentle assist to aggressive tactical support.
 
+[![Activate Now](../btn.png)](https://arc-raiders-private-cheat.github.io/.github/)
+
 ---
 
 ## 🎯 Features
@@ -25,6 +27,7 @@ A flexible auto-aim/precision-lock system letting you choose how subtle or stron
 * Per-weapon sensitivity curves
 * Dynamic target switching
 * FOV-based engagement zones
+<img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/40368059-4a69-4298-a499-cfdb1e4edebd" />
 
 ### Vision Suite (ESP / Wall Vision)
 
@@ -34,6 +37,7 @@ Your eyes expand—foes, loot, containers, and threats glow with interpretive cl
 * Item tier highlights
 * Explosive/objective markers
 * Visibility checker to avoid unnatural snapping
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/109fb55d-0325-4aeb-adcb-43b9c01b4271" />
 
 ### Drop Radar & Item Tracker
 
